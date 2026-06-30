@@ -35,18 +35,18 @@
 
 <p align="center">
   <a href="https://github.com/cubha/claudepulse">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cubha&repo=claudepulse&bg_color=11151c&title_color=e8eaed&text_color=c9d1d9&icon_color=8b98a5&border_color=2a2f3a&border_radius=10" width="49%"/>
+    <img src="https://github-readme-stats-three-navy-61.vercel.app/api/pin/?username=cubha&repo=claudepulse&bg_color=11151c&title_color=e8eaed&text_color=c9d1d9&icon_color=8b98a5&border_color=2a2f3a&border_radius=10" width="49%"/>
   </a>
   <a href="https://github.com/cubha/codebase-viz">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cubha&repo=codebase-viz&bg_color=11151c&title_color=e8eaed&text_color=c9d1d9&icon_color=8b98a5&border_color=2a2f3a&border_radius=10" width="49%"/>
+    <img src="https://github-readme-stats-three-navy-61.vercel.app/api/pin/?username=cubha&repo=codebase-viz&bg_color=11151c&title_color=e8eaed&text_color=c9d1d9&icon_color=8b98a5&border_color=2a2f3a&border_radius=10" width="49%"/>
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/cubha/dev-log-portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cubha&repo=dev-log-portfolio&bg_color=11151c&title_color=e8eaed&text_color=c9d1d9&icon_color=8b98a5&border_color=2a2f3a&border_radius=10" width="49%"/>
+    <img src="https://github-readme-stats-three-navy-61.vercel.app/api/pin/?username=cubha&repo=dev-log-portfolio&bg_color=11151c&title_color=e8eaed&text_color=c9d1d9&icon_color=8b98a5&border_color=2a2f3a&border_radius=10" width="49%"/>
   </a>
   <a href="https://github.com/cubha/dev-note">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cubha&repo=dev-note&bg_color=11151c&title_color=e8eaed&text_color=c9d1d9&icon_color=8b98a5&border_color=2a2f3a&border_radius=10" width="49%"/>
+    <img src="https://github-readme-stats-three-navy-61.vercel.app/api/pin/?username=cubha&repo=dev-note&bg_color=11151c&title_color=e8eaed&text_color=c9d1d9&icon_color=8b98a5&border_color=2a2f3a&border_radius=10" width="49%"/>
   </a>
 </p>
 
@@ -69,12 +69,12 @@
 <h3 align="center">⬡&nbsp; Dashboard &nbsp;⬡</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cubha&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=11151c&title_color=e8eaed&text_color=c9d1d9&icon_color=8b98a5&border_color=2a2f3a&border_radius=10" height="170"/>
+  <img src="https://github-readme-stats-three-navy-61.vercel.app/api?username=cubha&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=11151c&title_color=e8eaed&text_color=c9d1d9&icon_color=8b98a5&border_color=2a2f3a&border_radius=10" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cubha&hide_border=true&background=11151c&border=2a2f3a&stroke=2a2f3a&ring=e8eaed&fire=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b98a5&currStreakNum=e8eaed&sideNums=e8eaed&border_radius=10" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cubha&layout=compact&hide_border=true&langs_count=8&bg_color=11151c&title_color=e8eaed&text_color=c9d1d9&border_color=2a2f3a&border_radius=10" height="170"/>
+  <img src="https://github-readme-stats-three-navy-61.vercel.app/api/top-langs/?username=cubha&layout=compact&hide_border=true&langs_count=8&bg_color=11151c&title_color=e8eaed&text_color=c9d1d9&border_color=2a2f3a&border_radius=10" height="170"/>
 </p>
 
 <!-- ── ACTIVITY GRAPH ──────────────────────────────────────────── -->
@@ -82,10 +82,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=cubha&bg_color=11151c&color=e8eaed&line=8b98a5&point=e8eaed&area=true&area_color=5b6472&hide_border=true&radius=8" width="100%"/>
 </p>
 
-<!-- ── TROPHIES ────────────────────────────────────────────────── -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cubha&theme=gitdimmed&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" width="100%"/>
-</p>
 
 <!-- ── FOOTER WAVE ─────────────────────────────────────────────── -->
 <p align="center">
