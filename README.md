@@ -30,10 +30,7 @@
 <br/>
 
 <!-- ── ABOUT ───────────────────────────────────────────────────── -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:5b6472,50:c9d1d9,100:5b6472&height=3&v=3" width="88%"/>
-</p>
-<h3 align="center"><img src="https://img.shields.io/badge/%E2%AC%A2-ABOUT-8b98a5?style=for-the-badge&labelColor=1c2128" alt="About"/></h3>
+<h3 align="center"><img src="https://raw.githubusercontent.com/cubha/cubha/main/assets/hex.svg" height="17" alt="◆"/> &nbsp; About &nbsp; <img src="https://raw.githubusercontent.com/cubha/cubha/main/assets/hex.svg" height="17" alt="◆"/></h3>
 <p align="center">
   Solo developer based in Korea, building across the stack.<br/>
   I make small, observable <b>dev tools</b> (<code>claudepulse</code>, <code>codebase-viz</code>, <code>geobuke-code</code>),
@@ -44,10 +41,7 @@
 <br/>
 
 <!-- ── PROJECTS (no table → no zebra-striping; equal 140px cards) ── -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:5b6472,50:c9d1d9,100:5b6472&height=3&v=3" width="88%"/>
-</p>
-<h3 align="center"><img src="https://img.shields.io/badge/%E2%AC%A2-PROJECTS-8b98a5?style=for-the-badge&labelColor=1c2128" alt="Projects"/></h3>
+<h3 align="center"><img src="https://raw.githubusercontent.com/cubha/cubha/main/assets/hex.svg" height="17" alt="◆"/> &nbsp; Projects &nbsp; <img src="https://raw.githubusercontent.com/cubha/cubha/main/assets/hex.svg" height="17" alt="◆"/></h3>
 
 <p align="center">
   <a href="https://github.com/cubha/claudepulse"><picture>
@@ -73,10 +67,7 @@
 <br/>
 
 <!-- ── STACK (opaque pills — theme-agnostic) ───────────────────── -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:5b6472,50:c9d1d9,100:5b6472&height=3&v=3" width="88%"/>
-</p>
-<h3 align="center"><img src="https://img.shields.io/badge/%E2%AC%A2-STACK-8b98a5?style=for-the-badge&labelColor=1c2128" alt="Stack"/></h3>
+<h3 align="center"><img src="https://raw.githubusercontent.com/cubha/cubha/main/assets/hex.svg" height="17" alt="◆"/> &nbsp; Stack &nbsp; <img src="https://raw.githubusercontent.com/cubha/cubha/main/assets/hex.svg" height="17" alt="◆"/></h3>
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-11151c?style=for-the-badge&logo=typescript&logoColor=c9d1d9"/>
   <img src="https://img.shields.io/badge/Node.js-11151c?style=for-the-badge&logo=nodedotjs&logoColor=c9d1d9"/>
@@ -89,10 +80,7 @@
 <br/>
 
 <!-- ── ACTIVITY ────────────────────────────────────────────────── -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:5b6472,50:c9d1d9,100:5b6472&height=3&v=3" width="88%"/>
-</p>
-<h3 align="center"><img src="https://img.shields.io/badge/%E2%AC%A2-ACTIVITY-8b98a5?style=for-the-badge&labelColor=1c2128" alt="Activity"/></h3>
+<h3 align="center"><img src="https://raw.githubusercontent.com/cubha/cubha/main/assets/hex.svg" height="17" alt="◆"/> &nbsp; Activity &nbsp; <img src="https://raw.githubusercontent.com/cubha/cubha/main/assets/hex.svg" height="17" alt="◆"/></h3>
 
 <p align="center">
   <picture>
