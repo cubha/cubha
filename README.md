@@ -49,7 +49,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/cubha/geobuke-code"><img src="https://github-readme-stats-three-navy-61.vercel.app/api/pin/?username=cubha&repo=geobuke-code&bg_color=11151c&title_color=e8eaed&text_color=c9d1d9&icon_color=8b98a5&border_color=2a2f3a&border_radius=10" width="100%"/></a>
+      <a href="https://github.com/cubha/geobuke-code"><img src="https://github-readme-stats-three-navy-61.vercel.app/api/pin/?username=cubha&repo=geobuke-code&bg_color=11151c&title_color=e8eaed&text_color=c9d1d9&icon_color=8b98a5&border_color=2a2f3a&border_radius=10&rev=2" width="100%"/></a>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/cubha/dev-note"><img src="https://github-readme-stats-three-navy-61.vercel.app/api/pin/?username=cubha&repo=dev-note&bg_color=11151c&title_color=e8eaed&text_color=c9d1d9&icon_color=8b98a5&border_color=2a2f3a&border_radius=10" width="100%"/></a>
