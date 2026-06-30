@@ -30,6 +30,9 @@
 <br/>
 
 <!-- ── ABOUT ───────────────────────────────────────────────────── -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:5b6472,50:c9d1d9,100:5b6472&height=3&v=3" width="80%"/>
+</p>
 <h3 align="center"><img src="https://raw.githubusercontent.com/cubha/cubha/main/assets/hex.svg" height="17" alt="◆"/> &nbsp; About &nbsp; <img src="https://raw.githubusercontent.com/cubha/cubha/main/assets/hex.svg" height="17" alt="◆"/></h3>
 <p align="center">
   Solo developer based in Korea, building across the stack.<br/>
@@ -41,6 +44,9 @@
 <br/>
 
 <!-- ── PROJECTS (no table → no zebra-striping; equal 140px cards) ── -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:5b6472,50:c9d1d9,100:5b6472&height=3&v=3" width="80%"/>
+</p>
 <h3 align="center"><img src="https://raw.githubusercontent.com/cubha/cubha/main/assets/hex.svg" height="17" alt="◆"/> &nbsp; Projects &nbsp; <img src="https://raw.githubusercontent.com/cubha/cubha/main/assets/hex.svg" height="17" alt="◆"/></h3>
 
 <p align="center">
@@ -67,6 +73,9 @@
 <br/>
 
 <!-- ── STACK (opaque pills — theme-agnostic) ───────────────────── -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:5b6472,50:c9d1d9,100:5b6472&height=3&v=3" width="80%"/>
+</p>
 <h3 align="center"><img src="https://raw.githubusercontent.com/cubha/cubha/main/assets/hex.svg" height="17" alt="◆"/> &nbsp; Stack &nbsp; <img src="https://raw.githubusercontent.com/cubha/cubha/main/assets/hex.svg" height="17" alt="◆"/></h3>
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-11151c?style=for-the-badge&logo=typescript&logoColor=c9d1d9"/>
@@ -80,6 +89,9 @@
 <br/>
 
 <!-- ── ACTIVITY ────────────────────────────────────────────────── -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:5b6472,50:c9d1d9,100:5b6472&height=3&v=3" width="80%"/>
+</p>
 <h3 align="center"><img src="https://raw.githubusercontent.com/cubha/cubha/main/assets/hex.svg" height="17" alt="◆"/> &nbsp; Activity &nbsp; <img src="https://raw.githubusercontent.com/cubha/cubha/main/assets/hex.svg" height="17" alt="◆"/></h3>
 
 <p align="center">
