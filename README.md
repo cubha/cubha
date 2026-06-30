@@ -32,7 +32,7 @@
 <!-- ── ABOUT ───────────────────────────────────────────────────── -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff,50:8b98a5,100:ffffff&height=3"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:f6f8fa,50:5b6472,100:f6f8fa&height=3&v=2"/>
     <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:8b98a5,100:0d1117&height=3" width="88%"/>
   </picture>
 </p>
@@ -49,7 +49,7 @@
 <!-- ── PROJECTS (no table → no zebra-striping; equal 140px cards) ── -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff,50:8b98a5,100:ffffff&height=3"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:f6f8fa,50:5b6472,100:f6f8fa&height=3&v=2"/>
     <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:8b98a5,100:0d1117&height=3" width="88%"/>
   </picture>
 </p>
@@ -81,7 +81,7 @@
 <!-- ── STACK (opaque pills — theme-agnostic) ───────────────────── -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff,50:8b98a5,100:ffffff&height=3"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:f6f8fa,50:5b6472,100:f6f8fa&height=3&v=2"/>
     <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:8b98a5,100:0d1117&height=3" width="88%"/>
   </picture>
 </p>
@@ -100,7 +100,7 @@
 <!-- ── ACTIVITY ────────────────────────────────────────────────── -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff,50:8b98a5,100:ffffff&height=3"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:f6f8fa,50:5b6472,100:f6f8fa&height=3&v=2"/>
     <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:8b98a5,100:0d1117&height=3" width="88%"/>
   </picture>
 </p>
