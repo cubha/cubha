@@ -30,7 +30,13 @@
 <br/>
 
 <!-- ── ABOUT ───────────────────────────────────────────────────── -->
-<h3 align="center">⬡&nbsp; About &nbsp;⬡</h3>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff,50:8b98a5,100:ffffff&height=3"/>
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:8b98a5,100:0d1117&height=3" width="88%"/>
+  </picture>
+</p>
+<h3 align="center"><img src="https://img.shields.io/badge/%E2%AC%A2-ABOUT-8b98a5?style=for-the-badge&labelColor=1c2128" alt="About"/></h3>
 <p align="center">
   Solo developer based in Korea, building across the stack.<br/>
   I make small, observable <b>dev tools</b> (<code>claudepulse</code>, <code>codebase-viz</code>, <code>geobuke-code</code>),
@@ -41,7 +47,13 @@
 <br/>
 
 <!-- ── PROJECTS (no table → no zebra-striping; equal 140px cards) ── -->
-<h3 align="center">⬡&nbsp; Projects &nbsp;⬡</h3>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff,50:8b98a5,100:ffffff&height=3"/>
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:8b98a5,100:0d1117&height=3" width="88%"/>
+  </picture>
+</p>
+<h3 align="center"><img src="https://img.shields.io/badge/%E2%AC%A2-PROJECTS-8b98a5?style=for-the-badge&labelColor=1c2128" alt="Projects"/></h3>
 
 <p align="center">
   <a href="https://github.com/cubha/claudepulse"><picture>
@@ -67,7 +79,13 @@
 <br/>
 
 <!-- ── STACK (opaque pills — theme-agnostic) ───────────────────── -->
-<h3 align="center">⬡&nbsp; Stack &nbsp;⬡</h3>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff,50:8b98a5,100:ffffff&height=3"/>
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:8b98a5,100:0d1117&height=3" width="88%"/>
+  </picture>
+</p>
+<h3 align="center"><img src="https://img.shields.io/badge/%E2%AC%A2-STACK-8b98a5?style=for-the-badge&labelColor=1c2128" alt="Stack"/></h3>
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-11151c?style=for-the-badge&logo=typescript&logoColor=c9d1d9"/>
   <img src="https://img.shields.io/badge/Node.js-11151c?style=for-the-badge&logo=nodedotjs&logoColor=c9d1d9"/>
@@ -80,7 +98,13 @@
 <br/>
 
 <!-- ── ACTIVITY ────────────────────────────────────────────────── -->
-<h3 align="center">⬡&nbsp; Activity &nbsp;⬡</h3>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff,50:8b98a5,100:ffffff&height=3"/>
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:8b98a5,100:0d1117&height=3" width="88%"/>
+  </picture>
+</p>
+<h3 align="center"><img src="https://img.shields.io/badge/%E2%AC%A2-ACTIVITY-8b98a5?style=for-the-badge&labelColor=1c2128" alt="Activity"/></h3>
 
 <p align="center">
   <picture>
