@@ -31,10 +31,7 @@
 
 <!-- ── ABOUT ───────────────────────────────────────────────────── -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:f6f8fa,50:5b6472,100:f6f8fa&height=3&v=2"/>
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:8b98a5,100:0d1117&height=3" width="88%"/>
-  </picture>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:5b6472,50:c9d1d9,100:5b6472&height=3&v=3" width="88%"/>
 </p>
 <h3 align="center"><img src="https://img.shields.io/badge/%E2%AC%A2-ABOUT-8b98a5?style=for-the-badge&labelColor=1c2128" alt="About"/></h3>
 <p align="center">
@@ -48,10 +45,7 @@
 
 <!-- ── PROJECTS (no table → no zebra-striping; equal 140px cards) ── -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:f6f8fa,50:5b6472,100:f6f8fa&height=3&v=2"/>
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:8b98a5,100:0d1117&height=3" width="88%"/>
-  </picture>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:5b6472,50:c9d1d9,100:5b6472&height=3&v=3" width="88%"/>
 </p>
 <h3 align="center"><img src="https://img.shields.io/badge/%E2%AC%A2-PROJECTS-8b98a5?style=for-the-badge&labelColor=1c2128" alt="Projects"/></h3>
 
@@ -80,10 +74,7 @@
 
 <!-- ── STACK (opaque pills — theme-agnostic) ───────────────────── -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:f6f8fa,50:5b6472,100:f6f8fa&height=3&v=2"/>
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:8b98a5,100:0d1117&height=3" width="88%"/>
-  </picture>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:5b6472,50:c9d1d9,100:5b6472&height=3&v=3" width="88%"/>
 </p>
 <h3 align="center"><img src="https://img.shields.io/badge/%E2%AC%A2-STACK-8b98a5?style=for-the-badge&labelColor=1c2128" alt="Stack"/></h3>
 <p align="center">
@@ -99,10 +90,7 @@
 
 <!-- ── ACTIVITY ────────────────────────────────────────────────── -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:f6f8fa,50:5b6472,100:f6f8fa&height=3&v=2"/>
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:8b98a5,100:0d1117&height=3" width="88%"/>
-  </picture>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:5b6472,50:c9d1d9,100:5b6472&height=3&v=3" width="88%"/>
 </p>
 <h3 align="center"><img src="https://img.shields.io/badge/%E2%AC%A2-ACTIVITY-8b98a5?style=for-the-badge&labelColor=1c2128" alt="Activity"/></h3>
 
