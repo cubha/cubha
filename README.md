@@ -9,7 +9,7 @@
 <!-- ── HEADER BANNER ───────────────────────────────────────────── -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e8eaed,50:8b98a5,100:5b6472&height=200&section=header&text=Hi,%20I'm%20cubha&fontSize=56&fontColor=1c2128&fontAlignY=38&desc=Seung%20Ho%20Eun%20%C2%B7%20developer%20based%20in%20Korea&descSize=16&descAlignY=60&descAlign=50"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:8b98a5,50:c9d1d9,100:8b98a5&height=200&section=header&text=Hi,%20I'm%20cubha&fontSize=56&fontColor=1c2128&fontAlignY=38&desc=Seung%20Ho%20Eun%20%C2%B7%20developer%20based%20in%20Korea&descSize=16&descAlignY=60&descAlign=50"/>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c2128,50:5b6472,100:c9d1d9&height=200&section=header&text=Hi,%20I'm%20cubha&fontSize=56&fontColor=e8eaed&fontAlignY=38&desc=Seung%20Ho%20Eun%20%C2%B7%20developer%20based%20in%20Korea&descSize=16&descAlignY=60&descAlign=50" width="100%"/>
   </picture>
 </p>
